@@ -1,5 +1,5 @@
 ### ___List of Contents___
-  1. [Linux Commands](#Linux Commands)
+  1. [Linux Commands](#linux-commands)
   1. Pyhton Program
      1. [Print Text](./python_programs/print_text.py)
      1. [Accepting User Input](./python_programs/accepting_user_input.py)
